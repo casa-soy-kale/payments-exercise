@@ -5,11 +5,13 @@
 1. Clone this repo
 1. Backend
 	1. Navigate to the `backend` directory
-	1. Run `yarn install`
+	1. Run `yarn install` to install all dependencies
+	1. Run `yarn start` to start the server while watching for file changes
 	1. Add features to `backend/router.js`
 1. Frontend
 	1. Navigate to the `frontend` directory
-	1. Run `yarn install`
+	1. Run `yarn install` to install all dependencies
+	1. Run `yarn start` to start the server while watching for file changes
 	1. Add features to `frontend/App.jsx`
 
 ## Stripe account
